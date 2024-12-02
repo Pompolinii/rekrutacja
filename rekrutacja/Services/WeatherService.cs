@@ -105,6 +105,6 @@ namespace rekrutacja.Services
         public int Humidity { get; set; }
 
         public string Country { get; set; }
-        public string State { get; set; } // Dodane pole stanu/regionu
+        public string State { get; set; } 
     }
 }
