@@ -14,5 +14,6 @@ namespace rekrutacja.Entities
         public string Country { get; set; }
 
         [JsonProperty("state")]
-        public string State { get; set; } 
+        public string State { get; set; }
+    }
 }
